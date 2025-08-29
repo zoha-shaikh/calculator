@@ -7,4 +7,6 @@ TOOLS USED-
 2.CSS-styling
 3.JavaScript-logic and functionality
 
-
+LIVE DEMO
+click here to try the calculator
+https://zoha-shaikh.github.io/scientific-calculator/
