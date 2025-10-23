@@ -1,4 +1,4 @@
-# scientific-calculator
+# calculator
 advanced calculator with sin,cos,tan and more built with HTML,CSS and JavaScript
 It supports basic maths and advanced trignometric functions
 
